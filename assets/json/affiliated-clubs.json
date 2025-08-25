@@ -1952,5 +1952,27 @@
     "PhoneNumbers": [
       "001-2503841151(Extn 336)"
     ]
+  },
+  {
+    "ClubNo": "162",
+    "ClubName": "Royal Goldfieldd Club Resort LTD",
+    "Country": "India",
+    "State": "Maharashtra",
+    "City": "Ratnagiri",
+    "Address": "Sr. 24, Mauje Waghave Tal: Dapoli, Dist:, Mauje, Waghave, Maharashtra 415712",
+    "PhoneNumbers": [
+      "8850408291"
+    ]
+  },
+  {
+    "ClubNo": "163",
+    "ClubName": "The Attingal Club",
+    "Country": "India",
+    "State": "Kerala",
+    "City": "Trivandrum",
+    "Address": "PR45+H3V, Attingal Club Road, Kottiyod, Kizhakkupuram, Attingal, Kerala 695101",
+    "PhoneNumbers": [
+      "082815 71997"
+    ]
   }
 ]
